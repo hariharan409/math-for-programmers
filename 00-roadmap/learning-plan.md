@@ -14,23 +14,33 @@ To **think like a computational scientist** — use math to **model, optimize, a
 
 Focus on the math that directly enhances your **coding logic** and **algorithmic thinking**.
 
-### 1. Logic & Discrete Mathematics
-**Topics:** Logic gates, truth tables, sets, relations, functions, combinatorics, graph theory.  
-**Why:** Strengthens your *algorithmic thinking* and understanding of *data structures*.
+### 🔹 1. Logic & Discrete Mathematics
 
-**Learn from:**
-- 📺 YouTube: [William Fiset](https://www.youtube.com/c/WilliamFiset) (Graph Theory)
-- 📺 YouTube: [Neso Academy – Discrete Math](https://www.youtube.com/c/NesoAcademy)
-- 📘 Book: *Discrete Mathematics and Its Applications* — Kenneth Rosen
+**Topics:**
+- Logic gates [YouTube 🔗]()
+- Truth tables [YouTube 🔗]()
+- Sets [YouTube 🔗]()
+- Relations [YouTube 🔗]()
+- Functions [YouTube 🔗]()
+- Combinatorics [YouTube 🔗]()
+- Graph theory [YouTube 🔗]()
+
+**Why:** Strengthens your *algorithmic thinking* and understanding of *data structures.*
 
 ---
 
-### 2. Number Theory & Modular Arithmetic
-**Use cases:** Cryptography, hashing, blockchain.  
-**Concepts:** Modular inverse, GCD, prime tests.  
+### 🔹 2. Number Theory & Modular Arithmetic
 
-**Practice:**  
-- Solve small coding challenges on **LeetCode** / **HackerRank** (Math section).  
+**Topics:**
+- Modular inverse [YouTube 🔗]()
+- Greatest Common Divisor (GCD) [YouTube 🔗]()
+- Prime number tests [YouTube 🔗]()
+- Modular operations [YouTube 🔗]()
+
+**Use cases:** Cryptography, hashing, blockchain.
+
+**Practice:**
+- Solve small coding challenges on **LeetCode** / **HackerRank** (Math section).
 
 ---
 
@@ -38,27 +48,33 @@ Focus on the math that directly enhances your **coding logic** and **algorithmic
 
 Develop your intuition for **systems that change over time** — used in *data modeling, physics simulations,* or *machine learning.*
 
-### 1. Linear Algebra
-**Concepts:** Vectors, matrices, transformations, eigenvalues.  
-**Applications:** Graphics, ML, deep learning, 3D rendering.
+### 🔹 1. Linear Algebra
 
-**Learn from:**
-- 📺 [3Blue1Brown – Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+**Topics:**
+- Vectors [YouTube 🔗]()
+- Matrices [YouTube 🔗]()
+- Matrix transformations [YouTube 🔗]()
+- Eigenvalues & Eigenvectors [YouTube 🔗]()
+
+**Applications:** Graphics, ML, deep learning, 3D rendering.
 
 **Practice:**
 - Implement a **mini matrix library** in JavaScript or Python.
 
 ---
 
-### 2. Calculus (Differentiation + Integration)
-**Focus:** Conceptual understanding.  
+### 🔹 2. Calculus (Differentiation + Integration)
+
+**Topics:**
+- Limits [YouTube 🔗]()
+- Derivatives [YouTube 🔗]()
+- Integrals [YouTube 🔗]()
+- Gradient descent [YouTube 🔗]()
+
 **Applications:** Optimization, ML gradient descent, simulations.
 
-**Learn from:**
-- 📺 [3Blue1Brown – Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-
 **Project Idea:**
-- Implement **gradient descent from scratch**.
+- Implement **gradient descent from scratch.**
 
 ---
 
@@ -66,41 +82,58 @@ Develop your intuition for **systems that change over time** — used in *data m
 
 Where programming and math truly merge.
 
-### 1. Probability & Statistics
-**Concepts:** Random variables, distributions, expectation, variance.  
+### 🔹 1. Probability & Statistics
+
+**Topics:**
+- Random variables [YouTube 🔗]()
+- Distributions [YouTube 🔗]()
+- Expectation [YouTube 🔗]()
+- Variance [YouTube 🔗]()
+- Correlation & Regression [YouTube 🔗]()
+
 **Applications:** AI, data analysis, prediction models.
 
 **Practice:**
-- Write code that simulates **dice rolls, coin flips, or random events**.  
-- Build a **simple Monte Carlo simulation**.
+- Write code that simulates **dice rolls, coin flips, or random events.**
+- Build a **simple Monte Carlo simulation.**
 
 ---
 
-### 2. Optimization & Algorithms
-**Concepts:** Big-O complexity, greedy vs. dynamic programming, graph optimization.  
+### 🔹 2. Optimization & Algorithms
+
+**Topics:**
+- Big-O complexity [YouTube 🔗]()
+- Greedy algorithms [YouTube 🔗]()
+- Dynamic programming [YouTube 🔗]()
+- Graph optimization [YouTube 🔗]()
+- Linear programming [YouTube 🔗]()
+
 **Applications:** Backend performance tuning, pathfinding, scheduling.
 
 **Learn:**
-- Dijkstra, Bellman-Ford, A*, Linear Programming (basic)
+- Dijkstra [YouTube 🔗]()
+- Bellman-Ford [YouTube 🔗]()
+- A* Search [YouTube 🔗]()
 
 ---
 
 ## 🤖 Phase 4: Apply Math to Intelligence (Ongoing)
 
-Now that you know the math — use it to create **intelligent or optimized systems**.
+Now that you know the math — use it to create **intelligent or optimized systems.**
 
-### Choose Your Direction
-| Focus Area | Math Used |
-|-------------|------------|
-| **Machine Learning & AI** | Calculus, Statistics, Linear Algebra |
-| **Graphics / Game Physics** | Geometry, Vectors, Trigonometry |
-| **Blockchain / Security** | Number Theory, Modular Arithmetic |
-| **Data Science / Analytics** | Statistics, Optimization |
+### 🔹 Choose Your Direction
 
-### Start Small
-- Implement a **regression model** from scratch (ML)  
-- Build a **pathfinding visualizer** (algorithms)  
-- Create a **physics-based animation** (geometry)  
+| Focus Area | Math Used | YouTube |
+|-------------|------------|----------|
+| **Machine Learning & AI** | Calculus, Statistics, Linear Algebra | [YouTube 🔗]() |
+| **Graphics / Game Physics** | Geometry, Vectors, Trigonometry | [YouTube 🔗]() |
+| **Blockchain / Security** | Number Theory, Modular Arithmetic | [YouTube 🔗]() |
+| **Data Science / Analytics** | Statistics, Optimization | [YouTube 🔗]() |
+
+**Start Small:**
+- Implement a **regression model** from scratch (ML)
+- Build a **pathfinding visualizer** (algorithms)
+- Create a **physics-based animation** (geometry)
 - Simulate a **blockchain hash function** (number theory)
 
 ---
@@ -118,8 +151,9 @@ Now that you know the math — use it to create **intelligent or optimized syste
 
 ## 🧠 Bonus Habit: “Mathematical Thinking”
 
-Don’t memorize — **visualize and experiment**.
+Don’t memorize — **visualize and experiment.**
 
+**Habits:**
 - Use **Python** (`NumPy`, `Matplotlib`) or **JavaScript** (`p5.js`) to visualize equations.  
 - Recreate every concept in code — e.g., simulate matrix rotation, graph traversal, or curve plotting.  
 - Keep a **“Math-to-Code” journal** — each concept → one code snippet.
