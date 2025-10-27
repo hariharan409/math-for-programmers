@@ -17,7 +17,7 @@ Focus on the math that directly enhances your **coding logic** and **algorithmic
 ### 🔹 1. Logic & Discrete Mathematics
 
 **Topics:**
-- Logic gates [YouTube 🔗]()
+- Logic gates [YouTube 🔗](https://www.youtube.com/watch?v=EW_2MhFu7tE)
 - Truth tables [YouTube 🔗]()
 - Sets [YouTube 🔗]()
 - Relations [YouTube 🔗]()
