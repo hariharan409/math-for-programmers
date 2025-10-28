@@ -18,7 +18,7 @@ Focus on the math that directly enhances your **coding logic** and **algorithmic
 
 **Topics:**
 - Logic gates [YouTube 🔗](https://www.youtube.com/watch?v=EW_2MhFu7tE)
-- Truth tables [YouTube 🔗](https://www.youtube.com/watch?v=UiGu57JzLkE)
+- Truth tables [YouTube 🔗]( https://www.youtube.com/watch?v=UiGu57JzLkE )
 - Sets [YouTube 🔗]()
 - Relations [YouTube 🔗]()
 - Functions [YouTube 🔗]()
